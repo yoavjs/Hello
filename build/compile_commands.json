@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Projects/LearningCMake/HelloWorldProject/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\hello.dir\\main.cpp.obj -c D:\\Projects\\LearningCMake\\HelloWorldProject\\main.cpp",
+  "file": "D:/Projects/LearningCMake/HelloWorldProject/main.cpp"
+}
+]
